@@ -14,7 +14,8 @@ Jamaica is the third largest of the Caribbean islands, and the largest English-s
   - **Must-See Attractions**: Kingston market
   - **Travel Tips**: Avoid leaving tourist spots.
   - **Contributor**: Omar
----
+
+# Hawaii
 
 Hawaii sits over 2,000 miles west of California. One of world's longest island chains, Hawaii is the only U.S. state completely made up of islands. But only 7 of its 132 islands are inhabited: Hawaii (also known as the Big Island), Maui, Molokai, Lanai, Oahu, Kauai, and Niihau.
 ![Hawaii](https://i0.wp.com/hellooliviablog.com/wp-content/uploads/2021/08/Aloha-1.jpg?resize=1440%2C810)
@@ -27,7 +28,8 @@ Hawaii sits over 2,000 miles west of California. One of world's longest island c
   - **Travel Tips**: Useful tips or things to keep in mind.
   - **Contributor**: Your Name
 
----
+
+# England
 
 England, predominant constituent unit of the United Kingdom, occupying more than half of the island of Great Britain. Outside the British Isles, England is often erroneously considered synonymous with the island of Great Britain (England, Scotland, and Wales) and even with the entire United Kingdom.
 
