@@ -21,13 +21,12 @@ Hawaii sits over 2,000 miles west of California. One of world's longest island c
 ![Hawaii](https://i0.wp.com/hellooliviablog.com/wp-content/uploads/2021/08/Aloha-1.jpg?resize=1440%2C810)
 
 
-- **Location**: City, Country
-  - **Why Visit**: Brief reason why the place is recommended.
-  - **Best Time to Visit**: Suggested travel time.
-  - **Must-See Attractions**: Key places or activities.
-  - **Travel Tips**: Useful tips or things to keep in mind.
-  - **Contributor**: Your Name
-
+- **Location**: Honolulu, Hawaii
+  - **Why Visit**: Beautiful sites to see
+  - **Best Time to Visit**: Anytime
+  - **Must-See Attractions**: Pearl city,Hawaii Volcanoes National Park
+  - **Travel Tips**: Get ready to dance and shake your hips!
+  - **Contributor**: Omar
 
 # England
 
@@ -35,12 +34,12 @@ England, predominant constituent unit of the United Kingdom, occupying more than
 
 ![England](https://image.slidesharecdn.com/talking-about-england-190314085340/85/Talking-about-England-12-320.jpg)
 
-- **Location**: City, Country
-  - **Why Visit**: Brief reason why the place is recommended.
-  - **Best Time to Visit**: Suggested travel time.
-  - **Must-See Attractions**: Key places or activities.
-  - **Travel Tips**: Useful tips or things to keep in mind.
-  - **Contributor**: Your Name
+- **Location**: London, UK
+  - **Why Visit**: Football,Beer.
+  - **Best Time to Visit**: NEVER! It is always raining.
+  - **Must-See Attractions**: Tower Bridge.
+  - **Travel Tips**: Do not forget to bring your umbrella.
+  - **Contributor**: Omar
 
 # Effiel Tower
 
