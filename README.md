@@ -39,8 +39,6 @@ It was for the 1889 Exposition Universelle, the date that marked the 100th anniv
 
 The first digging work started on the 26th January 1887. On the 31st March 1889, the Tower had been finished in record time – 2 years, 2 months and 5 days – and was established as a veritable technical feat.
 
-
-
 ## MEXICO
 
 ![Image Alt Text](https://i.natgeofe.com/n/6c02ad5a-977b-4f12-b9c0-02ffb0736e07/metropolitan-cathedral-zocalo-mexico-city_3x2.JPG?w=718&h=479)
