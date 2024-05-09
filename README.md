@@ -43,7 +43,6 @@ The first digging work started on the 26th January 1887. On the 31st March 1889,
 
 ![Image Alt Text](https://i.natgeofe.com/n/6c02ad5a-977b-4f12-b9c0-02ffb0736e07/metropolitan-cathedral-zocalo-mexico-city_3x2.JPG?w=718&h=479)
 
-
 Mexico has a rich cultural heritage that is a blend of indigenous traditions and Spanish colonial influence.
 It is known for its vibrant festivals, music, dance, cuisine, and art, including traditional crafts such as pottery, weaving, and embroidery. The food is amazing, some typical dishes are: tacos, fajitas and enchiladas.
 Spanish is the official language, but there are also numerous indigenous languages spoken throughout the country, including Nahuatl, Maya, and Zapotec, if you don't speak Spanish, I guess English is also ok.
