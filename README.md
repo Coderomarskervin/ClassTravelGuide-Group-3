@@ -43,9 +43,17 @@ The first digging work started on the 26th January 1887. On the 31st March 1889,
 
 ![Image Alt Text](https://i.natgeofe.com/n/6c02ad5a-977b-4f12-b9c0-02ffb0736e07/metropolitan-cathedral-zocalo-mexico-city_3x2.JPG?w=718&h=479)
 
+
+- **Location**: Mexico City, Mexico
+- **Why Visit**: amazing food, great history
+- **Best Time to Visit**: Spring, March-May
+- **Must-See Attractions**: Casa Azul, Museo Nacional de Antropologia, Bosque de Chapultepec, Ángel de la Independecia, Xochimilco.
+- **Travel Tips**: buy plenty of water, don't rely only on your credit cards, try the street food, dress in layers
+- **Contributor**: Manuela
+
+
 Mexico has a rich cultural heritage that is a blend of indigenous traditions and Spanish colonial influence.
 It is known for its vibrant festivals, music, dance, cuisine, and art, including traditional crafts such as pottery, weaving, and embroidery. The food is amazing, some typical dishes are: tacos, fajitas and enchiladas.
 Spanish is the official language, but there are also numerous indigenous languages spoken throughout the country, including Nahuatl, Maya, and Zapotec, if you don't speak Spanish, I guess English is also ok.
 There are a lot of historical sights to visit. Mexico has a long and complex history, with ancient civilizations such as the Olmec, Maya, and Aztec leaving behind impressive archaeological sites like Chichen Itza, Teotihuacan, and Palenque.
-In 1521, the Spanish conquered the Aztec Empire, leading to centuries of colonial rule under the Spanish crown.
-Mexico gained independence from Spain in 1821 and has since experienced periods of political instability, including the Mexican Revolution in the early 20th century.
+In 1521, the Spanish conquered the Aztec Empire, leading to centuries of colonial rule under the Spanish crown. Mexico gained independence from Spain in 1821 and has since experienced periods of political instability, including the Mexican Revolution in the early 20th century.
