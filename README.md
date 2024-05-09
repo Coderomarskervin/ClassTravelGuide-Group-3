@@ -70,11 +70,6 @@ It is known for its vibrant festivals, music, dance, cuisine, and art, including
 Spanish is the official language, but there are also numerous indigenous languages spoken throughout the country, including Nahuatl, Maya, and Zapotec, if you don't speak Spanish, I guess English is also ok.
 There are a lot of historical sights to visit. Mexico has a long and complex history, with ancient civilizations such as the Olmec, Maya, and Aztec leaving behind impressive archaeological sites like Chichen Itza, Teotihuacan, and Palenque.
 In 1521, the Spanish conquered the Aztec Empire, leading to centuries of colonial rule under the Spanish crown.
-Mexico gained independence from Spain in 1821 and has since experienced periods of political instability, including the Mexican Revolution in the early 20th century.
 
-- **Location**: City, Country
-  - **Why Visit**: Brief reason why the place is recommended.
-  - **Best Time to Visit**: Suggested travel time.
-  - **Must-See Attractions**: Key places or activities.
-  - **Travel Tips**: Useful tips or things to keep in mind.
-  - **Contributor**: Your Name
+
+Mexico gained independence from Spain in 1821 and has since experienced periods of political instability, including the Mexican Revolution in the early 20th century.
