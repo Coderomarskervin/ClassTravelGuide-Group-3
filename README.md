@@ -43,7 +43,6 @@ The first digging work started on the 26th January 1887. On the 31st March 1889,
 
 ![Image Alt Text](https://i.natgeofe.com/n/6c02ad5a-977b-4f12-b9c0-02ffb0736e07/metropolitan-cathedral-zocalo-mexico-city_3x2.JPG?w=718&h=479)
 
-
 - **Location**: Mexico City, Mexico
 - **Why Visit**: amazing food, great history
 - **Best Time to Visit**: Spring, March-May
