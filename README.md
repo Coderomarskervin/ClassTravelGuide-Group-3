@@ -2,22 +2,44 @@
 
 Welcome to our collaborative travel guide. Each entry below is contributed by members of our group, showcasing various exciting destinations around the world.
 
-## Destinations
+# Jamaica
 
 Jamaica is the third largest of the Caribbean islands, and the largest English-speaking island in the Caribbean Sea. Situated 90 miles south of Cuba, 600 miles south of Florida, USA, and 100 miles south-west of Haiti, Jamaica is approximately 146 miles long, 51 miles wide, and has an area of 4,411 square miles
 
  ![Jamaica-pic](https://ik.imgkit.net/3vlqs5axxjf/MM-TP/https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/9b04ac67-f164-4e28-aacc-dd7cc4473589/source.jpg?tr=w-1200%2Cfo-auto)
 
----
+  - **Location**: Kingston, Jamaica
+  - **Why Visit**: Great vibe,music,food,history.
+  - **Best Time to Visit**: Anytime.
+  - **Must-See Attractions**: Kingston market
+  - **Travel Tips**: Avoid leaving tourist spots.
+  - **Contributor**: Omar
+
+# Hawaii
 
 Hawaii sits over 2,000 miles west of California. One of world's longest island chains, Hawaii is the only U.S. state completely made up of islands. But only 7 of its 132 islands are inhabited: Hawaii (also known as the Big Island), Maui, Molokai, Lanai, Oahu, Kauai, and Niihau.
 ![Hawaii](https://i0.wp.com/hellooliviablog.com/wp-content/uploads/2021/08/Aloha-1.jpg?resize=1440%2C810)
 
----
+
+- **Location**: Honolulu, Hawaii
+  - **Why Visit**: Beautiful sites to see
+  - **Best Time to Visit**: Anytime
+  - **Must-See Attractions**: Pearl city,Hawaii Volcanoes National Park
+  - **Travel Tips**: Get ready to dance and shake your hips!
+  - **Contributor**: Omar
+
+# England
 
 England, predominant constituent unit of the United Kingdom, occupying more than half of the island of Great Britain. Outside the British Isles, England is often erroneously considered synonymous with the island of Great Britain (England, Scotland, and Wales) and even with the entire United Kingdom.
 
 ![England](https://image.slidesharecdn.com/talking-about-england-190314085340/85/Talking-about-England-12-320.jpg)
+
+- **Location**: London, UK
+  - **Why Visit**: Football,Beer.
+  - **Best Time to Visit**: NEVER! It is always raining.
+  - **Must-See Attractions**: Tower Bridge.
+  - **Travel Tips**: Do not forget to bring your umbrella.
+  - **Contributor**: Omar
 
 # Effiel Tower
 
@@ -56,4 +78,6 @@ Mexico has a rich cultural heritage that is a blend of indigenous traditions and
 It is known for its vibrant festivals, music, dance, cuisine, and art, including traditional crafts such as pottery, weaving, and embroidery. The food is amazing, some typical dishes are: tacos, fajitas and enchiladas.
 Spanish is the official language, but there are also numerous indigenous languages spoken throughout the country, including Nahuatl, Maya, and Zapotec, if you don't speak Spanish, I guess English is also ok.
 There are a lot of historical sights to visit. Mexico has a long and complex history, with ancient civilizations such as the Olmec, Maya, and Aztec leaving behind impressive archaeological sites like Chichen Itza, Teotihuacan, and Palenque.
-In 1521, the Spanish conquered the Aztec Empire, leading to centuries of colonial rule under the Spanish crown. Mexico gained independence from Spain in 1821 and has since experienced periods of political instability, including the Mexican Revolution in the early 20th century.
+In 1521, the Spanish conquered the Aztec Empire, leading to centuries of colonial rule under the Spanish crown.
+Mexico gained independence from Spain in 1821 and has since experienced periods of political instability, including the Mexican Revolution in the early 20th century.
+
